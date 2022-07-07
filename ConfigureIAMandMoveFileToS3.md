@@ -14,7 +14,7 @@ Create IAM role with EC2 policy and attach to the particular instance
 
 ```aws configure```
 
-It will ask for Access key ,Secret key, Region(optional) and language : json
+It will ask for Access key ,Secret key, Region(optional) and language as json
 
 To see the configuration list 
 
