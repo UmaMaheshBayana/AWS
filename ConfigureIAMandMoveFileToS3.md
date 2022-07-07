@@ -1,4 +1,4 @@
-# Create and COnfigure IAM Role  
+# Create and Configure IAM Role  
 
 Login to aws account and create a IAM user in IAM service
 
